@@ -1,0 +1,10 @@
+Registro Processado pelo Sistema JAVA 'Zero Papel'
+
+CT-e: 102030405
+Placa Logada: WYZ5678
+Recebedor: Carlos Eduardo Souza
+CPF: 111.222.333-44
+Localização GPS: Lat: -19.916700, Lon: -43.934500 (Precisão: 10m)
+Data Processamento: 02/11/2025 13:28:45
+--------------------------------
+Assinatura salva em: CTe-102030405_Placa-WYZ5678_CPF-11122233344_20251102_132845.png
