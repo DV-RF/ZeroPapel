@@ -10,10 +10,13 @@ O foco é demonstrar como a aplicação da **Ciência da Computação (Java)** r
 O projeto **Zero Papel** alinha-se prioritariamente com os seguintes Objetivos de Desenvolvimento Sustentável, devido ao seu foco na eficiência econômica e na redução de resíduos:
 
 * **ODS 8: Trabalho Decente e Crescimento Econômico** 📈
-    * **Justificativa:** A solução acelera o ciclo de comprovação e faturamento, garantindo um processo mais rápido e transparente para o pagamento de motoristas terceirizados. Isso fomenta o **crescimento das microempresas e o trabalho decente** (Meta 8.3 e 8.5) ao reduzir a burocracia e o tempo de espera por receita.
+    * **Justificativa:** A solução acelera o ciclo de comprovação e faturamento, garantindo um processo mais rápido e transparente para o pagamento de motoristas terceirizados.
+        Isso fomenta o **crescimento das microempresas e o trabalho decente** ao reduzir a burocracia e o tempo de espera por receita.
 
 * **ODS 12: Consumo e Produção Responsáveis** ♻️
-    * **Justificativa:** O projeto promove a sustentabilidade ao alcançar a meta de **"Papel Zero"** (Meta 12.5). Ao digitalizar integralmente o comprovante de entrega e o arquivamento (eliminando caixas de papelão e impressão), a transportadora reduz o consumo de recursos naturais e a geração de resíduos.
+    * **Justificativa:** O projeto promove a sustentabilidade ao alcançar a meta de **"Papel Zero"**.
+    Ao digitalizar integralmente o comprovante de entrega e o arquivamento (eliminando caixas de papelão e impressão),
+    a transportadora reduz o consumo de recursos naturais e a geração de resíduos.
 
 ---
 
@@ -36,6 +39,11 @@ O projeto consistiu no diagnóstico de um problema administrativo no setor de tr
 3.  **Testes e Validação:**
     * Testes unitários e de integração utilizando modelos de e-mail simulados para validar a precisão do Regex e a integridade da decodificação Base64.
     * Validação do fluxo de trabalho: Demonstração da ferramenta ao setor financeiro, provando que o processo manual de arquivamento foi substituído por uma operação de "copiar, colar e clicar".
+
+**Explicação Final de Evidência: Zero Papel (MVP e Plano de Implementação Futura)**
+
+O projeto Zero Papel foi concebido e implementado como um Produto Mínimo Viável (MVP), focado em provar a viabilidade técnica da digitalização e automação do processo de arquivamento.
+Ele estabelece o motor de auditoria central, sendo intencionalmente incompleto em sua capacidade de coleta de dados para justificar futuras fases de desenvolvimento.
 
 ---
 
