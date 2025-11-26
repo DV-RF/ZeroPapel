@@ -1,8 +1,3 @@
-ZeroPapel
-Excelente! Com base nas suas experiências no financeiro da transportadora, no uso do **Java** e na criação do aplicativo **Zero Papel**, preparei as seções do seu Relatório Final.
-
-O foco é demonstrar como a aplicação da **Ciência da Computação (Java)** resolveu um problema real do seu setor, alinhando-se aos **ODS**.
-
 ---
 
 ## 🎯 Objetivo de Desenvolvimento Sustentável (ODS)
