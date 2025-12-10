@@ -51,4 +51,4 @@ O projeto **Zero Papel** cumpriu integralmente seus objetivos, resultando em um 
 * **Segurança da Informação:** A digitalização com extração de CPF e Geolocalização fornece uma trilha de auditoria mais robusta do que o antigo comprovante em papel.
 * **Dominância da Linguagem Java:** Demonstrou-se a capacidade de utilizar Java para resolver problemas empresariais de I/O e processamento de dados complexos, aplicando conceitos avançados de **manipulação de strings (Regex)** e **tratamento de formatos binários (Base64)**.
 
-O projeto estabelece uma base tecnológica sólida na transportadora. A próxima etapa natural seria a evolução do módulo Java para se comunicar diretamente com uma caixa de e-mail (via JavaMail API) para eliminar até mesmo a etapa manual de "copiar e colar".
+O projeto estabelece uma base tecnológica sólida na transportadora. A próxima etapa será a evolução do módulo Java para se comunicar diretamente com uma caixa de e-mail (via JavaMail API) para eliminar a etapa manual de "copiar e colar".
